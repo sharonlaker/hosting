@@ -1,2 +1,2 @@
-# hosting
-sarima heroku
+# sarimahosting
+sarima model hosting
